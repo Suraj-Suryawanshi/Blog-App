@@ -1,0 +1,5 @@
+package com.surya.blog.exceptions;
+
+public class GlobalExceptionHandler {
+
+}
