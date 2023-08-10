@@ -1,0 +1,10 @@
+axios-> server call
+	npm install axios
+
+react-toastify -> for message displaying
+	npm install react-toastify
+
+
+server url:
+	BASE_URL=http://localhost:8080
+	BASE_URL/api/v1/auth/register
